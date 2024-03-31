@@ -23,7 +23,7 @@
   - [Movie recommendation system](https://github.com/VijaikumarSVK/Movie-recommendation-System): Proposed movie recommendation system uses content-based filtering, considering user preferences like watch history and favorite actors, enhancing OTT platform engagement.
   - [Block chaing project checklist](https://github.com/VijaikumarSVK/BlockChain-Project-Check-List): Implemented a checklist project utilizing blockchain technology and Ethereum cryptocurrency for secure transactions and decentralized record-keeping.
   - [30 Days DSA Challenge](https://github.com/VijaikumarSVK/30-Days-DSA-Challenge): '30 Days DSA Challenge' playlist, delving into fundamental Data Structures and Algorithms pivotal for thriving in product-based enterprises. Engage daily to refine skills and solve challenges, advancing mastery in DSA.
-  - [30 Days SQL Challenge](https://github.com/VijaikumarSVK/30-Days-SQL-Challenge):'30 Days SQL Challenge' playlist for product-based companies. Master SQL essentials through hands-on tutorials and real-world examples.
+  - [30 Days SQL Challenge](https://github.com/VijaikumarSVK/30-Days-SQL-Challenge): '30 Days SQL Challenge' playlist for product-based companies. Master SQL essentials through hands-on tutorials and real-world examples.
 
 <h3 align="left">Get me in touch with:</h3>
 <p align="left">
