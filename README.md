@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Vijai Kumar</h1>
 <p align="center">A dedicated <b>Big Data Analyst</b> with over 1+ year of experience in transforming data into actionable insights.</p>
 
-<img align="right" alt = "coding" width = "400" src = "https://lh3.googleusercontent.com/proxy/8X4QFvKnYpHMI-GjWM9cn2G4Ibnd_zmZilloWbcZMH3I-IIhWSnwkKNjNBTYvad7phQt5W3fdh9Al2-A1M67ypANZ8-zMrhJumWARdrtjy5edTEbVro">
-<!-- <img align="right" alt = "coding" width = "400" src = "https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk"> -->
+<!-- <img align="right" alt = "coding" width = "400" src = "https://lh3.googleusercontent.com/proxy/8X4QFvKnYpHMI-GjWM9cn2G4Ibnd_zmZilloWbcZMH3I-IIhWSnwkKNjNBTYvad7phQt5W3fdh9Al2-A1M67ypANZ8-zMrhJumWARdrtjy5edTEbVroaz">-->
+<img align="right" alt = "coding" width = "400" src = "https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk"> 
 <!-- <img align="right" alt = "coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:828/format:webp/1*Urc28sbnORGOW5oyohQ06g.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaikumarsvk&label=Profile%20views&color=0e75b6&style=flat" alt="vijaikumarsvk" /> </p>
