@@ -29,7 +29,7 @@
 <h3 align="left">Get me in touch with:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vijai-kumar-s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijai-kumar-s/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@encodecode1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCS98bvXUXZOYQT0AbBcfD7Q" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCS98bvXUXZOYQT0AbBcfD7Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCS98bvXUXZOYQT0AbBcfD7Q" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vijaisvk023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vijaisvk023" height="30" width="40" /></a>
 </p>
 
