@@ -15,7 +15,7 @@
 
 - 📫 Email address **vijaisvk22@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://drive.google.com/file/d/1Cq7U58bsMB4uf3tslzLcMrEF_j-I39vy/view?usp=sharing](https://drive.google.com/file/d/15Ouh8ch6yUYLwpAKypvoyvsJQZfkkA8B/view?usp=sharing))
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/15Ouh8ch6yUYLwpAKypvoyvsJQZfkkA8B/view?usp=sharing)
 
 ### What You'll Find Here
 
